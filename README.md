@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benhamida24244
 - 👀 I’m interested in Fullstack and learn language
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning C++
 - 📫 How to reach me Twitter
 
 <!---
