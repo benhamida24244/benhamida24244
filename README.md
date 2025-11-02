@@ -21,9 +21,9 @@
 ---
 
 ### 📈 My GitHub Stats
-![Benhamida's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenhamidaMohammed&show_icons=true&theme=tokyonight)
+![Benhamida's GitHub stats](https://github-readme-stats.vercel.app/api?username=benhamida24244&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenhamidaMohammed&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benhamida24244&layout=compact&theme=tokyonight)
 
 ---
 
